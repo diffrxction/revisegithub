@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+privatekeys.csv
+userpasswords.csv
 # Distribution / packaging
 .Python
 build/
